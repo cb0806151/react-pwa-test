@@ -23,8 +23,12 @@ loading...
 3/14/22
 - set up typescript boilerplate https://create-react-app.dev/docs/making-a-progressive-web-app/
 
+3/17/22
+- set up and test out basic PWA functionality
+
 Backlog
-- test out
+- host on github pages
+- bring in designs
 
 
 </p>
