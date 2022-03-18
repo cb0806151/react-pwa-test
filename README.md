@@ -36,6 +36,7 @@ loading...
 - create prayer modal
 - open prayer modal
 - integrate and test install app buttons
+- implement icons
 
 Backlog
 - implement husky
