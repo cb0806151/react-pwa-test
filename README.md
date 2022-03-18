@@ -33,12 +33,13 @@ loading...
 - set up routes
 - create basic homepage
 - create basic prayers page
+- create prayer modal
+- open prayer modal
 
 Backlog
 - implement husky
-- create prayer modal
-- open prayer modal
 - globalize modal system
+- integrate and test install app buttons
 
 </p>
 </details>
