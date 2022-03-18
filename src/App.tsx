@@ -1,5 +1,5 @@
 import { ReactElement, useEffect } from 'react'
-import { Route, Router, useLocation } from 'wouter'
+import { Route, Router, Switch, useLocation } from 'wouter'
 import Home from './pages/home'
 import Prayers from './pages/prayers'
 
@@ -13,12 +13,10 @@ function App(): ReactElement {
   return (
     <div>
       <Router base="/">
-        <Route path="/">
-          <Home />
-        </Route>
-        <Route path="/prayers">
-          <Prayers />
-        </Route>
+        <Switch>
+          <Route path="/" component={Home} />
+          <Route path="prayers" component={Prayers} />
+        </Switch>
       </Router>
     </div>
   )

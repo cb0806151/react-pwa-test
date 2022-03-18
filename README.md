@@ -32,10 +32,13 @@ loading...
 - set up linting
 - set up routes
 - create basic homepage
+- create basic prayers page
 
 Backlog
 - implement husky
-- create basic prayers page
+- create prayer modal
+- open prayer modal
+- globalize modal system
 
 </p>
 </details>
