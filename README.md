@@ -28,10 +28,11 @@ loading...
 - bring in designs
 - host on github pages at https://cb0806151.github.io/react-pwa-test/
 
-Backlog
+3/18/22
 - set up linting
 
-
+Backlog
+- implement husky
 
 </p>
 </details>
