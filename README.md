@@ -35,11 +35,12 @@ loading...
 - create basic prayers page
 - create prayer modal
 - open prayer modal
+- integrate and test install app buttons
 
 Backlog
 - implement husky
 - globalize modal system
-- integrate and test install app buttons
+- remove all cases of 'any' type
 
 </p>
 </details>
