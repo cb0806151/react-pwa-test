@@ -25,10 +25,12 @@ loading...
 
 3/17/22
 - set up and test out basic PWA functionality
+- bring in designs
 
 Backlog
 - host on github pages
-- bring in designs
+- set up linting
+
 
 
 </p>
