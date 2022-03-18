@@ -30,12 +30,12 @@ loading...
 
 3/18/22
 - set up linting
-
-3/19/22
 - set up routes
+- create basic homepage
 
 Backlog
 - implement husky
+- create basic prayers page
 
 </p>
 </details>
