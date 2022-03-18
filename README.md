@@ -31,6 +31,9 @@ loading...
 3/18/22
 - set up linting
 
+3/19/22
+- set up routes
+
 Backlog
 - implement husky
 
