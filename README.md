@@ -26,9 +26,9 @@ loading...
 3/17/22
 - set up and test out basic PWA functionality
 - bring in designs
+- host on github pages at https://cb0806151.github.io/react-pwa-test/
 
 Backlog
-- host on github pages
 - set up linting
 
 
